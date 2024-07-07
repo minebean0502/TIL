@@ -30,7 +30,7 @@
 - JDK = JRE + 개발에 필요한 실행파일 (javac.exe)
 - JRE = JVM + 클래스 라이브러리 (Java API)
 
-[JVM, JDK, JRE요약](https://github.com/minebean0502/TIL/blob/main/%EC%9E%90%EB%B0%94%EC%9D%98%EC%A0%95%EC%84%9D/1%EC%9E%A5/1%EC%9E%A5%20%EC%9D%B4%EB%AF%B8%EC%A7%80/JVM%2CJRE%2CJDK%20%EC%9A%94%EC%95%BD.PNG)
+![JVM, JDK, JRE요약](https://github.com/minebean0502/TIL/blob/main/%EC%9E%90%EB%B0%94%EC%9D%98%EC%A0%95%EC%84%9D/1%EC%9E%A5/1%EC%9E%A5%20%EC%9D%B4%EB%AF%B8%EC%A7%80/JVM%2CJRE%2CJDK%20%EC%9A%94%EC%95%BD.PNG)
 
 ### 주요 키워드
 - JVM
