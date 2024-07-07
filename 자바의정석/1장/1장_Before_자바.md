@@ -33,13 +33,14 @@
 ![JVM, JDK, JRE요약](https://github.com/minebean0502/TIL/blob/main/%EC%9E%90%EB%B0%94%EC%9D%98%EC%A0%95%EC%84%9D/1%EC%9E%A5/1%EC%9E%A5%20%EC%9D%B4%EB%AF%B8%EC%A7%80/JVM%2CJRE%2CJDK%20%EC%9A%94%EC%95%BD.PNG)
 
 ### 주요 키워드
-- JVM
-- 가비지 컬렉터
-- 네트워크
-- 분산처리
-- 스케줄링
-- 동적 로딩
-- JDK, JRE
+- ![객체지향]()
+- ![JVM]()
+- ![가비지 컬렉터]()
+- ![네트워크]()
+- ![분산처리]()
+- ![스케줄링]()
+- ![동적 로딩]()
+- ![JDK, JRE]()
 
 ### 개인 메모
 1. High Level Language
