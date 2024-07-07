@@ -26,10 +26,11 @@
 - 일반 애플리케이션은 OS에 종속적이나, JAVA는 JVM과 상호작용만 하기 때문에 OS와 상관없이 실행이 가능하다
 - 그러나 JVM는 OS에 종속적이다.
 
-## 2. JDK (Java Development Kit)
+## 1.4 JDK (Java Development Kit)
 - JDK = JRE + 개발에 필요한 실행파일 (javac.exe)
 - JRE = JVM + 클래스 라이브러리 (Java API)
 
+[JVM, JDK, JRE요약](https://github.com/minebean0502/TIL/blob/main/%EC%9E%90%EB%B0%94%EC%9D%98%EC%A0%95%EC%84%9D/1%EC%9E%A5/1%EC%9E%A5%20%EC%9D%B4%EB%AF%B8%EC%A7%80/JDK%EC%99%80%20JRE%20%EC%9A%94%EC%95%BD.PNG)
 
 ### 주요 키워드
 - JVM
@@ -45,4 +46,4 @@
 - High Level Language 자체를 CPU가 직접 실행할 수는 없다.
 - Java를 비롯한 High Level Language로 작성된 코드는 어느 시점에 다시 기계어로 변환되어야 한다.
 - !!특히 변환의 시점은 언어(의 구현체)마다 다르다
-![컴파일_스크립트언어 사진]()
+![컴파일_스크립트언어 사진](https://github.com/minebean0502/TIL/blob/main/%EC%9E%90%EB%B0%94%EC%9D%98%EC%A0%95%EC%84%9D/1%EC%9E%A5/1%EC%9E%A5%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%BB%B4%ED%8C%8C%EC%9D%BC_%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%96%B8%EC%96%B4.PNG)
